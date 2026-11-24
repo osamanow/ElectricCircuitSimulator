@@ -57,3 +57,6 @@ Connecting R5 in series with R3: 8.5 ohms
 
 5 ohm Resistance is in parallel with 0.1 farad Capacitor
 ```
+**
+Main and ReadMe are AI Generated**
+
