@@ -1,4 +1,4 @@
-// main.cpp — demo of the Electric circuit classes:
+// main.cpp - demo of the Electric circuit classes:
 //   ElectricNode  : an electric node holding connected ElectricDevice pointers
 //   ElectricDevice: abstract base (ConnectParallel / ConnectSeries / IsParallel)
 //   Resistor, Capacitor : concrete devices with merge formulas
